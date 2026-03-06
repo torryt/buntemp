@@ -1,0 +1,17 @@
+{
+  "name": "buntemp",
+  "module": "src/cli.ts",
+  "type": "module",
+  "bin": {
+    "buntemp": "src/cli.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "8.3.0"
+  }
+}
