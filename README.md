@@ -1,3 +1,6 @@
+# DEPRECATION NOTICE
+It wasn't a long run, neither a glorious one. This project is now replaced by the language agnostic and rocking [riff](https://torryt.github.io/riff/) 🎸.
+
 # 🐰 buntemp
 
 > Temporary Bun projects, without the existential dread of naming them.
